@@ -1,13 +1,13 @@
-# SQL Project: Data Analysis for Food Nation – A Food Delivery Company
+# SQL Project: Data Analysis for FooDrive – A Food Delivery Company
 ### Overview
-This project showcases my ability to work with relational databases using SQL. I’ve built and analyzed a fictional food delivery platform called Dishcover, where I used PostgreSQL to create schemas, clean data, and solve business problems through real-world SQL queries.
+This project showcases my ability to work with relational databases using SQL. I’ve built and analyzed a fictional food delivery platform called FooDrivef, where I used PostgreSQL to create schemas, clean data, and solve business problems through real-world SQL queries.
 
-Food Nation is refer to nation's food which reflecting the goal of exploring food ordering patterns and business performance insights in the restaurant delivery ecosystem.
+FooDrive is refer to nation's food which reflecting the goal of exploring food ordering patterns and business performance insights in the restaurant delivery ecosystem.
 
 In addition to SQL analysis, I’ve also created a Power BI dashboard to visualize key insights from the dataset — making trends, patterns, and outliers easier to interpret and present.
 
 ### Project Highlights
-✅ Created and managed a PostgreSQL database (dishcover_db)
+✅ Created and managed a PostgreSQL database (FooDrive_db)
 ✅ Designed normalized tables for customers, restaurants, orders, deliveries, and riders
 ✅ Imported structured CSV data into each table
 ✅ Cleaned and handled null/missing data
@@ -15,17 +15,17 @@ In addition to SQL analysis, I’ve also created a Power BI dashboard to visuali
 ✅ Built an interactive Power BI dashboard to visualize key business insights
 
 ### What I Learned from This Project
-Through Food Nation, I didn’t just write SQL queries—I learned how to think like a data analyst. Here's what I practiced:
+Through FooDrive, I didn’t just write SQL queries—I learned how to think like a data analyst. Here's what I practiced:
 
 📌 Database Design – Created clean and structured tables using real-world relationships 🔍 Data Filtering & Retrieval – Wrote queries to get the right answers from large datasets 📊 Aggregation & Grouping – Used functions like SUM, COUNT, AVG to find key insights 🔗 Joins – Connected multiple tables (e.g., orders, customers, restaurants) to get complete answers 🪟 Window Functions – Used RANK, ROW_NUMBER,LAG etc., for advanced analysis 🕒 Date & Time Functions – Found trends over months, years, time slots 🔁 Conditional Logic – Applied CASE WHEN to add logic inside SQL queries 🧠 Subqueries – Wrote queries inside queries for more complex problems
 
 This project also helped me visualize insights using Power BI, making the data easier to understand for non-technical people.
 
-### Power BI Dashboard – Dishcover
-To make the insights more interactive and visually compelling, I designed a Power BI dashboard for the Food Nation project using real-world food delivery data. This dashboard provides a clear overview of key business metrics through intuitive visuals:
+### Power BI Dashboard – FooDrive
+To make the insights more interactive and visually compelling, I designed a Power BI dashboard for the FooDrive project using real-world food delivery data. This dashboard provides a clear overview of key business metrics through intuitive visuals:
 
 ### Dashboard Preview
-Food Nation Power BI Dashboard
+FooDrive Power BI Dashboard
 
 ### Key Highlights:
 💰 Total Sales: ₹987M across 150K orders
@@ -96,7 +96,7 @@ This project helped me put my SQL knowledge into practice by building a database
 With the addition of Power BI, I translated raw SQL insights into visual stories — making the data easier to interpret for non-technical users. This project has strengthened both my data analysis skills and my ability to think like a data-driven decision-maker.
 
 ### Disclaimer
-This project is purely academic and was created for learning and portfolio purposes. All data used is fictional and randomly generated — it does not reflect any real individuals, companies, or events. The name "Food Nation" is made up and is not associated with Zomato, Swiggy, or any real food delivery platform. Any similarities are completely coincidental.
+This project is purely academic and was created for learning and portfolio purposes. All data used is fictional and randomly generated — it does not reflect any real individuals, companies, or events. The name "FooDrive" is made up and is not associated with Zomato, Swiggy, or any real food delivery platform. Any similarities are completely coincidental.
 
 
 ### About Me
