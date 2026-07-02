@@ -1,9 +1,9 @@
---- SQL Project – Food Nation
--- Food Nation: A Fictional Food Delivery Company
+--- SQL Project – FooDrive
+-- FooDrive: A Fictional Food Delivery Company
 
-CREATE DATABASE FoodNation_db;
+CREATE DATABASE FooDrive_db;
 
--- Connect to FoodNation_db;
+-- Connect to FooDrive_db;
 
 -- Import this script and click the run/play button — it will create all the necessary tables!
 
